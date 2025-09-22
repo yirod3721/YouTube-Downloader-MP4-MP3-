@@ -15,7 +15,7 @@ It can download videos as **MP4** or extract audio as **MP3**, and also includes
 - Simple **GUI version** using `easygui`
 - Lightweight **console version** for MP3 downloads
 - Supports high-quality downloads via `yt_dlp`
-
+- Read and download videos and mp3s from files
 ---
 
 ## 📦 Requirements
