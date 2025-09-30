@@ -13,6 +13,7 @@ if choice == "cmd":
 ytd_opt_audio = {
     'writethumbnail': True,
     'format': 'bestaudio/best',
+    'restrictfilenames': True,
     #cookie input
     'cookiefile': 'cookies.txt',  # <-- add this line
     'postprocessors': [
